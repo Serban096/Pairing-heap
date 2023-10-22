@@ -1,2 +1,1 @@
-# Implementare pairing heap
-Implementarea unui pairing heap in c++
+# Pairing heap implementation in C++
