@@ -1,2 +1,2 @@
-# Tema-2-SD
+# Implementare pairing heap
 Implementarea unui pairing heap in c++
